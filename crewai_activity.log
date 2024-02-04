@@ -1,0 +1,119 @@
+2024-02-03 17:36:38,993 - __main__ - DEBUG - Initializing the Ollama LLM with model 'openhermes'.
+2024-02-03 17:36:38,995 - __main__ - DEBUG - Initializing DuckDuckGo Search tool for web searches.
+2024-02-03 17:36:39,051 - asyncio - DEBUG - Using selector: SelectSelector
+2024-02-03 17:36:39,064 - __main__ - DEBUG - Configuring Venue Search Agent.
+2024-02-03 17:36:39,067 - __main__ - DEBUG - Configuring Data Processing Agent.
+2024-02-03 17:36:39,068 - __main__ - DEBUG - Configuring Markdown Formatting Agent.
+2024-02-03 17:36:39,070 - __main__ - DEBUG - Configuring Crew and tasks.
+2024-02-03 17:36:39,075 - __main__ - DEBUG - Kicking off the Crew tasks.
+2024-02-03 17:36:39,114 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:36:41,144 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:36:41,734 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:36:42,466 - duckduckgo_search.AsyncDDGS - DEBUG - _aget_url() https://duckduckgo.com 200 3 0.184046 15094
+2024-02-03 17:36:43,326 - duckduckgo_search.AsyncDDGS - DEBUG - _aget_url() https://links.duckduckgo.com/d.js 200 3 0.826264 35000
+2024-02-03 17:36:43,338 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:36:45,343 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:36:45,819 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:36:47,005 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:36:49,009 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:36:49,336 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:36:50,084 - duckduckgo_search.AsyncDDGS - DEBUG - _aget_url() https://duckduckgo.com 200 3 0.187916 15243
+2024-02-03 17:36:50,913 - duckduckgo_search.AsyncDDGS - DEBUG - _aget_url() https://links.duckduckgo.com/d.js 200 3 0.827847 35945
+2024-02-03 17:36:50,926 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:36:52,930 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:36:53,409 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:36:54,069 - duckduckgo_search.AsyncDDGS - DEBUG - _aget_url() https://duckduckgo.com 200 3 0.152067 15266
+2024-02-03 17:36:54,915 - duckduckgo_search.AsyncDDGS - DEBUG - _aget_url() https://links.duckduckgo.com/d.js 200 3 0.844363 25480
+2024-02-03 17:36:54,927 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:36:56,929 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:36:57,416 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:36:58,908 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:37:00,912 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:37:01,213 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:37:02,298 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:37:04,304 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:37:04,945 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:37:05,465 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:37:07,472 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:37:07,858 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:37:13,043 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:37:15,048 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:37:15,435 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:37:16,117 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:37:18,121 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:37:18,407 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:37:23,978 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:37:25,983 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:37:26,488 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:37:27,439 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:37:29,442 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:37:29,960 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:37:31,223 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:37:33,228 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:37:33,532 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:37:34,000 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:37:36,004 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:37:36,243 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:37:40,721 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:37:42,726 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:37:43,173 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:37:44,317 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:37:46,321 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:37:47,077 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:37:51,234 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:37:53,238 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:37:53,787 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:37:58,659 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:38:00,663 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:38:01,150 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:38:05,432 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:38:07,437 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:38:07,939 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:38:09,038 - __main__ - ERROR - An error occurred during Markdown file generation.
+2024-02-03 17:42:23,576 - __main__ - DEBUG - Initializing the Ollama LLM with model 'openhermes'.
+2024-02-03 17:42:23,578 - __main__ - DEBUG - Initializing DuckDuckGo Search tool for web searches.
+2024-02-03 17:42:23,635 - asyncio - DEBUG - Using selector: SelectSelector
+2024-02-03 17:42:23,648 - __main__ - DEBUG - Configuring Venue Search Agent.
+2024-02-03 17:42:23,651 - __main__ - DEBUG - Configuring Data Processing Agent.
+2024-02-03 17:42:23,653 - __main__ - DEBUG - Configuring Markdown Formatting Agent.
+2024-02-03 17:42:23,654 - __main__ - DEBUG - Configuring Crew and tasks.
+2024-02-03 17:42:23,660 - __main__ - DEBUG - Kicking off the Crew tasks.
+2024-02-03 17:42:23,697 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:42:25,704 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:42:26,223 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:42:26,979 - duckduckgo_search.AsyncDDGS - DEBUG - _aget_url() https://duckduckgo.com 200 3 0.179692 15098
+2024-02-03 17:42:27,686 - duckduckgo_search.AsyncDDGS - DEBUG - _aget_url() https://links.duckduckgo.com/d.js 200 3 0.705063 34920
+2024-02-03 17:42:27,699 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:42:29,703 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:42:30,142 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:42:30,680 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:42:32,686 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:42:32,966 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:42:34,519 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:42:36,524 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:42:36,843 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:42:37,423 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:42:39,427 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:42:39,735 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:42:40,054 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:42:42,060 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:42:42,483 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:42:43,129 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:42:45,133 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:42:45,436 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:42:46,043 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:42:48,045 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:42:48,358 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:42:48,960 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:42:50,964 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:42:51,407 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:42:53,941 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:42:55,944 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:42:56,305 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:42:57,370 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:42:59,375 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:42:59,846 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:43:02,588 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:11434
+2024-02-03 17:43:04,592 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate/ HTTP/1.1" 307 0
+2024-02-03 17:43:04,945 - urllib3.connectionpool - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2024-02-03 17:43:06,773 - __main__ - ERROR - An error occurred during Markdown file generation.
